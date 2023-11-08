@@ -1,12 +1,24 @@
+![Product Banner][banner]
+
+<hr>
+
+<style>
+  h1 {
+    text-align: center;
+    color: blue;
+  }
+</style>
+
+
 # ¡Hola, soy Carolina Reyes! 👋
 
 ## Acerca de mí
-Soy una apasionada estudiante de Ingeniería Mecánica con una creciente pasión por el desarrollo, especialmente el Backend. Durante mi experiencia en mis diversos roles de la vida, he cultivado una serie de características clave que han sido fundamentales para alcanzar consistentemente los objetivos en proyectos previos, de manera exitosa. Dentro de las cuales mí habilidad para desarrollar sistemas de organización efectivos me ha sido esencial para mantener y comunicar mis proyectos e ideas de forma asertiva ante mis colegas y equipo de trabajo, lo que garantiza un seguimiento preciso del progreso y cumplimiento de plazos.
-<br>La determinación en la consecución de objetivos planteados, mi curiosidad y una búsqueda constante de mejora tanto en mis habilidades blandas como técnicas, me han permitido enfrentar los retos como una oportunidad para mí creciente como profesional y optimizar los resultados y el rendimiento de cada proyecto en el cual me comprometo. Además, mi notable resistencia ante las dificultades me brinda una considerable adaptabilidad frente a los cambios, lo que me permite enfrentar los desafíos con calma y eficacia. Estoy ansiosa por aplicar estas características en proyectos futuros y por continuar aprendiendo y creciendo en el mundo del desarrollo Backend. <br>
+Soy una apasionada estudiante de Ingeniería Mecánica con una creciente pasión por el desarrollo, especialmente en el ámbito Backend. Mi experiencia me ha permitido desarrollar sistemas de organización efectivos, garantizando un seguimiento preciso del progreso y el cumplimiento de plazos en proyectos anteriores. Me destaco por mi determinación en la consecución de objetivos, mi curiosidad constante y mi búsqueda de mejora en habilidades técnicas y blandas. Mi capacidad para enfrentar desafíos con resiliencia y adaptabilidad me impulsan a aplicar estas cualidades en los proyectos donde me comprometo mientras continúo aprendiendo y creciendo en el mundo del desarrollo Backend.
 
-<center>
-<strong>✅"En la mecánica, aprendí a ser tan meticulosa que, en el desarrollo Backend, cuando escribo código, ni una tuerca queda suelta. ¡Mis algoritmos son como motores de precisión suiza!" </strong>
-</center> 
+- 💡 Exploradora Curiosa: Siempre en búsqueda de nuevos desafíos en el mundo de la tecnología.
+- 🤝 Colaborador en Potencia: Ansío trabajar en equipo y aprender de otros desarrolladores talentosos.
+- 🌱 Aprendiz Eterno: Continuamente aprendiendo y mejorando mis habilidades de desarrollo.
+- 📚 Aficionado a la Lectura: Cuando no estoy programando, me sumerjo en libros.
 
 ##  🚀 Habilidades 
 - Desarrollo Backend: HTML, JavaScript, Node.JS, Python, 
@@ -35,8 +47,18 @@ Breve descripción del proyecto y tecnologías utilizadas.
 [![Jira](https://img.shields.io/badge/Jira-%2300A8FF?style=for-the-badge&logo=Jira&color=white&style=border-color:#00A8FF&width=40&height=40)](https://www.atlassian.com/software/jira)
 [![OpenProject](https://img.shields.io/badge/OpenProject-%23666666?style=for-the-badge&logo=OpenProject&color=white&style=border-color:#666666&width=40&height=40)](https://www.openproject.org/)
 
-## 📊 Estadísticas de GitHub
-[![Estadísticas de GitHub](https://img.shields.io/github/issues/Angiedylexx/Angiedylexx/pulls)](https://github.com/Angiedylexx/Angiedylexx/issues)
+<details> 
+<summary>📊 Estadísticas</summary>
+
+## Estadísticas de GitHub
+<p align="left" style="background-color: white;"> <img src="https://github-readme-stats.vercel.app/api?username=Angiedylexx&show_icons=true&theme=default" alt="Angiedylexx" />
+</p>
+
+## Lenguajes de programación
+
+![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=Angiedylexx&layout=compact)
+
+</details>
 
 ## 🗂️ Contribuciones Recientes
 ![Contribuciones Recientes](URL_del_widget_de_contribuciones_recientes)
@@ -45,5 +67,9 @@ Breve descripción del proyecto y tecnologías utilizadas.
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&color=0077B5)](https://www.linkedin.com/in/carolinarbackendingenieriamecanica/)
 - [![Correo electrónico](https://img.shields.io/badge/Correo%20electrónico-%230077B5?logo=gmail&color=0077B5)](mailto:angiedylexx@gmail.com)
 
+
 ------
 ¡Gracias por visitar mi perfil de GitHub!
+
+
+[banner]: images/banner.png
