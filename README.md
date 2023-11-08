@@ -2,15 +2,7 @@
 
 <hr>
 
-<style>
-  h1 {
-    text-align: center;
-    color: blue;
-  }
-</style>
-
-
-# ¡Hola, soy Carolina Reyes! 👋
+<h1 style="text-align: center; color: blue;">¡Hola, soy Carolina Reyes! 👋</h1>
 
 ## Acerca de mí
 Soy una apasionada estudiante de Ingeniería Mecánica con una creciente pasión por el desarrollo, especialmente en el ámbito Backend. Mi experiencia me ha permitido desarrollar sistemas de organización efectivos, garantizando un seguimiento preciso del progreso y el cumplimiento de plazos en proyectos anteriores. Me destaco por mi determinación en la consecución de objetivos, mi curiosidad constante y mi búsqueda de mejora en habilidades técnicas y blandas. Mi capacidad para enfrentar desafíos con resiliencia y adaptabilidad me impulsan a aplicar estas cualidades en los proyectos donde me comprometo mientras continúo aprendiendo y creciendo en el mundo del desarrollo Backend.
@@ -66,7 +58,6 @@ Breve descripción del proyecto y tecnologías utilizadas.
 ## 🌐 Contacto
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&color=0077B5)](https://www.linkedin.com/in/carolinarbackendingenieriamecanica/)
 - [![Correo electrónico](https://img.shields.io/badge/Correo%20electrónico-%230077B5?logo=gmail&color=0077B5)](mailto:angiedylexx@gmail.com)
-
 
 ------
 ¡Gracias por visitar mi perfil de GitHub!
