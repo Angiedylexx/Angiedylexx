@@ -1,4 +1,4 @@
-![Product Banner][banner]
+[![Banner](images/Banner.png)](https://github.com/Angiedylexx/Angiedylexx)
 
 <hr>
 
@@ -70,6 +70,3 @@ Breve descripción del proyecto y tecnologías utilizadas.
 
 ------
 ¡Gracias por visitar mi perfil de GitHub!
-
-
-[banner]: images/banner.png
