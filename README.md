@@ -2,7 +2,7 @@
 
 <hr>
 
-<h1 style="text-align: center; color: blue;">¡Hola, soy Carolina Reyes! 👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=2471A3&size=25&lines=Hola%2C+Soy+Carolina+Reyes.👋)](https://git.io/typing-svg)
 
 ## Acerca de mí
 Soy una apasionada estudiante de Ingeniería Mecánica con una creciente pasión por el desarrollo, especialmente en el ámbito Backend. Mi experiencia me ha permitido desarrollar sistemas de organización efectivos, garantizando un seguimiento preciso del progreso y el cumplimiento de plazos en proyectos anteriores. Me destaco por mi determinación en la consecución de objetivos, mi curiosidad constante y mi búsqueda de mejora en habilidades técnicas y blandas. Mi capacidad para enfrentar desafíos con resiliencia y adaptabilidad me impulsan a aplicar estas cualidades en los proyectos donde me comprometo mientras continúo aprendiendo y creciendo en el mundo del desarrollo Backend.
@@ -19,10 +19,6 @@ Soy una apasionada estudiante de Ingeniería Mecánica con una creciente pasión
 - Herramientas y Tecnologías: Visual Studio Code, Postman, Swagger, npm, Slack, JIRA, GitHub
 - Métodos Ágiles: Experiencia en Scrum
 - Habilidades Adicionales: Resiliencia, resolución de problemas, pensamiento lógico
-
-## Proyectos Destacados
-- [EdVisto]( https://github.com/InTechMOM/team-10-back)
-Breve descripción del proyecto y tecnologías utilizadas.
 
 ## 🛠️ Tecnologías y Herramientas 
 [![GitHub](https://img.shields.io/badge/GitHub-%23F08080?style=for-the-badge&logo=GitHub&color=white&style=border-color:#F08080&width=40&height=40)](https://github.com/tu-nombre/tu-repositorio)
@@ -53,7 +49,8 @@ Breve descripción del proyecto y tecnologías utilizadas.
 </details>
 
 ## 🗂️ Contribuciones Recientes
-![Contribuciones Recientes](URL_del_widget_de_contribuciones_recientes)
+- [EdVisto]( https://github.com/InTechMOM/team-10-back); Fuí la encargada del desarrollo backend donde se permitiera almacenar, gestionar y procesar la información de los usuarios (Docentes/Estudiantes) dentro de una plataforma educativa, implementando estrategias para aportar optimización e interoperabilidad durante el proceso.
+- [EdVisto]( https://github.com/InTechMOM/edvisto-mod-comparte-evalua-Back); Seguí el desarrollo desde el lado del servidor, enfocada en esta oportunidad desde la interfaz y flujo de información del docente, y  fui la encarga de desarrollar el módulo completo de backend referente a la autenticación dentro de la plataforma tanto de los estudiantes como docentes. Reforzando mís conocimientos con el desarrollo implementando Firebase y la integración con proveedores externos como Google.
 
 ## 🌐 Contacto
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&color=0077B5)](https://www.linkedin.com/in/carolinarbackendingenieriamecanica/)
